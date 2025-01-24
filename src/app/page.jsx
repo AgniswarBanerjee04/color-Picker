@@ -140,7 +140,7 @@ function MainComponent() {
               </p>
               <p className="flex items-center">
                 <i className="fas fa-map-marker-alt mr-2"></i>
-                Kolkata
+                Kolkata, India
               </p>
             </div>
           </div>
